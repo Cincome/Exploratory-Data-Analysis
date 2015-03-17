@@ -1,3 +1,5 @@
+The project repository can be found <a href="https://github.com/rdpeng/ExData_Plotting1"> here</a>.
+
 ## Introduction
 
 This assignment uses data from
