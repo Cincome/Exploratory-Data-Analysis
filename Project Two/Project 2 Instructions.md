@@ -1,5 +1,5 @@
 The instructions for this project are taken from the 
-<a href="http://www.coursera.org/course/exdata>Exploratory Data Analysis</a> course website.
+<a href="http://www.coursera.org/course/exdata">Exploratory Data Analysis</a> course website.
 
 
 #Introduction
